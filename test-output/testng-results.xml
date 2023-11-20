@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T07:42:00Z" name="Default suite" finished-at="2023-11-08T07:43:32Z" duration-ms="92815">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T07:42:00Z" name="Default test" finished-at="2023-11-08T07:43:32Z" duration-ms="92815">
+      <class name="demo.makemytrip">
+        <test-method is-config="true" signature="open()[pri:0, instance:demo.makemytrip@be68757]" started-at="2023-11-08T13:12:00Z" name="open" finished-at="2023-11-08T13:12:12Z" duration-ms="12194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="holidaypack()[pri:0, instance:demo.makemytrip@be68757]" started-at="2023-11-08T13:12:12Z" name="holidaypack" finished-at="2023-11-08T13:12:31Z" duration-ms="18913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- holidaypack -->
+        <test-method signature="selecthotel()[pri:0, instance:demo.makemytrip@be68757]" started-at="2023-11-08T13:12:31Z" name="selecthotel" finished-at="2023-11-08T13:13:32Z" duration-ms="61687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selecthotel -->
+      </class> <!-- demo.makemytrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
